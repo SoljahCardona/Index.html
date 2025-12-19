@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sol's homepage</title>
+</head>
+<body>
+    <header>
+        <h1> Welcome to my homepage </h1>
+    </header>
+    <main> 
+        <p><strong>Name:</strong> Carlos Edwards-Cardona the 2nd </p>
+        <p><strong>Age:</strong> 16 years old </p>
+        <p><strong>Location:</strong> California </p>
+        <h2>My hobbies </h2>
+        <ul>
+            <li>Gym</li>
+            <li>Music</li>
+            <li>Gaming</li>
+        </ul>
+        <h2>My Favorite Things</h2>
+        <ol>
+        <li>Music</li>
+        <li>Cars</li>
+        <li>Gaming</li>
+        </ol>
+        <p> My favorite website is <a href="https://www.youtube.com">youtube</a>
+        </p>
+        <img src="Cat.jpg" alt="Cat" width="200" height="200"> 
+    </main>
+    <footer> 
+        <p> 2025 Sol's homepage </p>
+    </footer>
+</body>
+</html>
